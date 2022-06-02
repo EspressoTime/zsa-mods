@@ -1,10 +1,10 @@
 # ZSA Keyboard Mod Variations
 
-##Functional Music Mode
+## Functional Music Mode
 Enables regular keyboard functionality in music mode. Type and jam at the same time 😀
 
-##Jiggler
+## Jiggler
 Enabled by default mouse jiggler. Emulates mouse movements every three minutes (configurable).
 
-##Music & Jiggle
+## Music & Jiggle
 Both together!
